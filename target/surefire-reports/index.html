@@ -102,7 +102,7 @@
                     <div class="method-list-content passed suite-CodingChallengeTests">
                       <span>
                         <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-CodingChallengeTests" title="tests.CodingChallengeTest" hash-for-method="TestCase1">TestCase1</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-CodingChallengeTests" title="tests.CodingChallengeTest" hash-for-method="testCase1">testCase1</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-CodingChallengeTests -->
@@ -125,11 +125,9 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="TestCase1">
-                  </a> <!-- TestCase1 -->
-                  <span class="method-name">TestCase1</span>
-                  <em>
-(Test Case 1)                  </em>
+                  <a name="testCase1">
+                  </a> <!-- testCase1 -->
+                  <span class="method-name">testCase1</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -143,7 +141,7 @@
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite verbose=&quot;0&quot; name=&quot;CodingChallengeTests&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot; name=&quot;CodingChallengeTests&quot;&gt;
   &lt;test thread-count=&quot;5&quot; verbose=&quot;0&quot; name=&quot;TestCase1&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;tests.CodingChallengeTest&quot;/&gt;
@@ -188,14 +186,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'TestCase1')
+data.setCell(0, 1, 'testCase1')
 data.setCell(0, 2, 'tests.CodingChallengeTest')
-data.setCell(0, 3, 8320);
+data.setCell(0, 3, 7977);
 window.suiteTableData['CodingChallengeTests']= { tableData: data, tableDiv: 'times-div-CodingChallengeTests'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 8 seconds</span>
+              <span class="suite-total-time">Total running time: 7 seconds</span>
               <div id="times-div-CodingChallengeTests">
               </div> <!-- times-div-CodingChallengeTests -->
             </div> <!-- times-div -->
@@ -228,15 +226,15 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="configuration-method before">
                 <span class="method-name">methodLevelSetup</span>
-                <span class="method-start">5752 ms</span>
+                <span class="method-start">6034 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
-                <span class="method-name">TestCase1</span>
-                <span class="method-start">5882 ms</span>
+                <span class="method-name">testCase1</span>
+                <span class="method-start">6206 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">teardown</span>
-                <span class="method-start">14213 ms</span>
+                <span class="method-start">14198 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

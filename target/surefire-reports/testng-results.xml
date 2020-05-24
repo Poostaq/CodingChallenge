@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="CodingChallengeTests" duration-ms="14843" started-at="2020-05-24T15:56:50 CEST" finished-at="2020-05-24T15:57:05 CEST">
+  <suite name="CodingChallengeTests" duration-ms="14831" started-at="2020-05-24T17:00:05 CEST" finished-at="2020-05-24T17:00:19 CEST">
     <groups>
     </groups>
-    <test name="TestCase1" duration-ms="14843" started-at="2020-05-24T15:56:50 CEST" finished-at="2020-05-24T15:57:05 CEST">
+    <test name="TestCase1" duration-ms="14831" started-at="2020-05-24T17:00:05 CEST" finished-at="2020-05-24T17:00:19 CEST">
       <class name="tests.CodingChallengeTest">
-        <test-method status="PASS" signature="classLevelSetup()[pri:0, instance:tests.CodingChallengeTest@157632c9]" name="classLevelSetup" is-config="true" duration-ms="5735" started-at="2020-05-24T15:56:50 CEST" finished-at="2020-05-24T15:56:56 CEST">
+        <test-method status="PASS" signature="classLevelSetup()[pri:0, instance:tests.CodingChallengeTest@61884cb1]" name="classLevelSetup" is-config="true" duration-ms="6017" started-at="2020-05-24T17:00:05 CEST" finished-at="2020-05-24T17:00:11 CEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- classLevelSetup -->
-        <test-method status="PASS" signature="methodLevelSetup()[pri:0, instance:tests.CodingChallengeTest@157632c9]" name="methodLevelSetup" is-config="true" duration-ms="44" started-at="2020-05-24T15:56:56 CEST" finished-at="2020-05-24T15:56:56 CEST">
+        <test-method status="PASS" signature="methodLevelSetup()[pri:0, instance:tests.CodingChallengeTest@61884cb1]" name="methodLevelSetup" is-config="true" duration-ms="73" started-at="2020-05-24T17:00:11 CEST" finished-at="2020-05-24T17:00:11 CEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- methodLevelSetup -->
-        <test-method status="PASS" signature="TestCase1()[pri:0, instance:tests.CodingChallengeTest@157632c9]" name="TestCase1" duration-ms="8320" started-at="2020-05-24T15:56:56 CEST" description="Test Case 1" finished-at="2020-05-24T15:57:05 CEST">
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:tests.CodingChallengeTest@61884cb1]" name="testCase1" duration-ms="7977" started-at="2020-05-24T17:00:11 CEST" finished-at="2020-05-24T17:00:19 CEST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TestCase1 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.CodingChallengeTest@157632c9]" name="teardown" is-config="true" duration-ms="613" started-at="2020-05-24T15:57:05 CEST" finished-at="2020-05-24T15:57:05 CEST">
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.CodingChallengeTest@61884cb1]" name="teardown" is-config="true" duration-ms="609" started-at="2020-05-24T17:00:19 CEST" finished-at="2020-05-24T17:00:19 CEST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

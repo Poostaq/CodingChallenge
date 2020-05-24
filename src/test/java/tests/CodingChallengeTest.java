@@ -10,9 +10,9 @@ public class CodingChallengeTest extends BaseTest {
     String email = "hello@qualityminds.de";
     //endregion
 
-    @Test(description = "Test Case 1")
+    @Test
     @Description("Test Description: Verification of kontakt page using Top Menu and link on the bottom")
-    public void TestCase1(){
+    public void testCase1(){
         commonsPage.goToURL(URL);
         homePage.goToKontaktTopMenu();
         kontaktPage.verifyEmail(email);
