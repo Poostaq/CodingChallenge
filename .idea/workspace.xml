@@ -20,17 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a809d215-4cf0-416c-9d10-5f088510ab48" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/PortfolioPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodingChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingChallenge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CommonsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CommonsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/KontaktPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/KontaktPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/CodingChallengeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/CodingChallengeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/pages/BasePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/main/java/pages/CommonsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/pages/CommonsPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/main/java/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/pages/HomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/main/java/pages/KontaktPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/pages/KontaktPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/CodingChallengeTests/TestCase1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/CodingChallengeTests/TestCase1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/CodingChallengeTests/TestCase1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/CodingChallengeTests/TestCase1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
@@ -41,7 +45,8 @@
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/CodingChallengeTests/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/CodingChallengeTests/classes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/CodingChallengeTests/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/CodingChallengeTests/methods-alphabetical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/CodingChallengeTests/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/CodingChallengeTests/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/CodingChallengeTests/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/CodingChallengeTests/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/CodingChallengeTests/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/CodingChallengeTests/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/BaseTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/tests/CodingChallengeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/CodingChallengeTest.class" afterDir="false" />
@@ -85,7 +90,7 @@
       <recent name="F:\PRACA\CodingChallenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.CodingChallenge [clean,test]">
+  <component name="RunManager" selected="TestNG.CodingChallengeTest.testCase2">
     <configuration name="CodingChallenge [clean,test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -162,12 +167,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CodingChallengeTest.testCase2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CodingChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CodingChallengeTest" />
+      <option name="METHOD_NAME" value="testCase2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Maven.CodingChallenge [clean,test]" />
       <item itemvalue="TestNG.CodingChallengeTest.TestCase1" />
+      <item itemvalue="TestNG.CodingChallengeTest.testCase2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CodingChallengeTest.testCase2" />
         <item itemvalue="TestNG.CodingChallengeTest.TestCase1" />
       </list>
     </recent_temporary>
@@ -234,30 +259,30 @@
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
     <state x="-1233" y="392" key="FileChooserDialogImpl/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1590317603458" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1590332399891">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1590336947255">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1590332399891" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1590332399891">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1590336947255" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1590336947255">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1590332399891" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1590332399891">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1590336947255" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1590336947255">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1590332399891" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1590332399891">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1590336947255" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1590336947255">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1590332399891" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1590336947255" />
     <state x="-1430" y="235" key="Maven.ArtifactSearchDialog" timestamp="1590324388334">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
     <state x="-1430" y="235" key="Maven.ArtifactSearchDialog/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1590324388334" />
-    <state x="-1459" y="225" key="SettingsEditor" timestamp="1590328590313">
+    <state x="-1459" y="225" key="SettingsEditor" timestamp="1590332687925">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>
-    <state x="-1459" y="225" key="SettingsEditor/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1590328590313" />
+    <state x="-1459" y="225" key="SettingsEditor/-1920.0.1920.1160/0.0.1920.1040@-1920.0.1920.1160" timestamp="1590332687925" />
     <state x="-1144" y="358" key="chooseDestDirectoryDialog" timestamp="1590328044653">
       <screen x="-1920" y="0" width="1920" height="1160" />
     </state>

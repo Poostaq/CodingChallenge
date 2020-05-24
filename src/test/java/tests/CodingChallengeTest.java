@@ -8,6 +8,7 @@ public class CodingChallengeTest extends BaseTest {
     //region TEST DATA
     String URL = "https://www.qualityminds.de";
     String email = "hello@qualityminds.de";
+    String submenuWebAutomation = "Web, Automation & Mobile Testing";
     //endregion
 
     @Test
@@ -20,5 +21,16 @@ public class CodingChallengeTest extends BaseTest {
         commonsPage.goToURL(URL);
         homePage.goToKontaktBottomArea();
         kontaktPage.verifyIfTheSamePage(kontaktPageTitle);
+    }
+
+    @Test
+    @Description("")
+    public void testCase2(){
+        commonsPage.goToURL(URL);
+        homePage.hoverToPortfolioTopMenu();
+        homePage.clickOnTopMenuSubitem(submenuWebAutomation);
+        commonsPage.verifyTopMenuHighlighted("Portfolio");
+        portfolioPage.clickMobileTab();
+        portfolioPage.verifyDownloadLinkFlyer();
     }
 }

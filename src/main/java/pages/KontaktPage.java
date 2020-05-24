@@ -20,15 +20,12 @@ public class KontaktPage extends BasePage{
 
     //region VERIFICATIONS
     @Step("Verify if the page contains email address: {0}")
-    public KontaktPage verifyEmail(String expectedMail) {
-        //waitVisibility(email);
+    public void verifyEmail(String expectedMail) {
         Assert.assertEquals(readText(email), expectedMail);
-        return this;
     }
 
     @Step("Verify if the page displayed in step 2 is the same page that is displayed in step 5")
     public void verifyIfTheSamePage(String expectedTitle){
-        //waitVisibility(title);
         Assert.assertEquals(readText(title), expectedTitle);
     }
     //endregion
