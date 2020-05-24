@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<suite name = "CodingChallengeTests">
+    <test name = "TestCase1">
+        <classes>
+            <class name = "tests.CodingChallengeTest" />
+        </classes>
+    </test>
+</suite>
